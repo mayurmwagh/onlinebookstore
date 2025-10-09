@@ -16,4 +16,4 @@ spec:
     spec:
       containers:
       - name: webapp
-        image: mayurwagh/tomcatonline-${BUILD_ID}:latest
+        image: mayurwagh/tomcatonline:latest
